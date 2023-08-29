@@ -15,5 +15,3 @@ spring:
         - Path=/greet
   application:
     name: CLOUD-API-GATEWAY
-server:
-  port: 3333
